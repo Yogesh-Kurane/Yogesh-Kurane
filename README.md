@@ -1,11 +1,9 @@
-## Hi there, I am Yogesh! 👋
-
 # 👋 Hi, I'm Yogesh Kurane!  
 
 ## 🔹 About Me  
-- Aspiring **Data & Business Analyst**  
-- Currently pursuing **Data Analyst Bootcamp by Codebasics**  
-- **Master's in Finance and Accounting**  
+- 🎯 Aspiring **Data & Business Analyst**  
+- 📚 Currently pursuing **Data Analyst Bootcamp by codebasics**  
+- 🎓 **Master's in Finance and Accounting**  
 
 ## 🔹 Tools and Languages  
 - ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
@@ -19,5 +17,5 @@
 📌 **Project Name 3** – Description and [Link](#)  
 
 ## 🔹 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshkurane/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshkurane.work@gmail.com)  
