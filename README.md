@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Yogesh Kurane!  
 
+**Welcome to my GitHub profile!**  
+I'm passionate about leveraging data analytics to empower businesses to make data-driven decisions and drive growth. With a strong foundation in tools like **Excel, Power BI, SQL, and Python**, I aim to combine **technical expertise with business acumen** to deliver impactful solutions. I believe in **constant growth** and continuous learning.  
+
 ## 🔹 About Me  
 - 🎯 Aspiring **Data & Business Analyst**  
-- 📚 Currently pursuing **Data Analyst Bootcamp by codebasics**  
+- 📚 Currently pursuing **Data Analyst Bootcamp by Codebasics**  
 - 🎓 **Master's in Finance and Accounting**  
 
 ## 🔹 Tools and Languages  
@@ -19,3 +22,4 @@
 ## 🔹 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshkurane/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogeshkurane.work@gmail.com)  
+
