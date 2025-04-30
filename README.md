@@ -18,7 +18,7 @@ I'm passionate about leveraging data analytics to empower businesses to make dat
 📌 **[AtliQ Hardware Analysis](https://github.com/Yogesh-Kurane/AtliQ-Hardware-Analysis)**   
 📌 **[Business Insights 360](https://github.com/Yogesh-Kurane/Business-Insights-360)**  
 📌 **[Electric Vehicles Analysis](https://github.com/Yogesh-Kurane/Electric-Vehicles-Analysis)**  
-📌 **[Shield Insurance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDFkYmYyNWQtMGY3Zi00YzM3LTgzYjktZjQ4ZWVlOTEyNmRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+📌 **[Shield Insurance Analysis](https://github.com/Yogesh-Kurane/Shield-Insurance-Analysis)**  
 
 ## 🔹 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshkurane/)  
