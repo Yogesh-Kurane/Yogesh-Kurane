@@ -15,9 +15,10 @@ I'm passionate about leveraging data analytics to empower businesses to make dat
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ## 🔹 Projects  
-📌 **Project Name 1** – Description and [Link](#)  
-📌 **Project Name 2** – Description and [Link](#)  
-📌 **Project Name 3** – Description and [Link](#)  
+📌 **[AtliQ Hardware Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDFkYmYyNWQtMGY3Zi00YzM3LTgzYjktZjQ4ZWVlOTEyNmRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**   
+📌 **[Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiNDFkYmYyNWQtMGY3Zi00YzM3LTgzYjktZjQ4ZWVlOTEyNmRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+📌 **[Electric Vehicles Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDFkYmYyNWQtMGY3Zi00YzM3LTgzYjktZjQ4ZWVlOTEyNmRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
+📌 **[Shield Insurance Analysis](https://app.powerbi.com/view?r=eyJrIjoiNDFkYmYyNWQtMGY3Zi00YzM3LTgzYjktZjQ4ZWVlOTEyNmRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 
 ## 🔹 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeshkurane/)  
