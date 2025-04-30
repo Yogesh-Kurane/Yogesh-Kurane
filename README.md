@@ -4,9 +4,9 @@
 I'm passionate about leveraging data analytics to empower businesses to make data-driven decisions and drive growth. With a strong foundation in tools like **Excel, Power BI, SQL, and Python**, I aim to combine **technical expertise with business acumen** to deliver impactful solutions. I believe in **constant growth** and continuous learning.  
 
 ## 🔹 About Me  
-- 🎯 Aspiring **Data & Business Analyst**  
-- 📚 Currently pursuing **Data Analyst Bootcamp by Codebasics**  
-- 🎓 **Master's in Finance and Accounting**  
+- 🎯 **Data analytics professional with practical work experience on real-world projects**  
+- 📚 **Successfully completed the Data Analyst Bootcamp by Codebasics**  
+- 🎓 **Hold a Master’s degree in Accounting and Finance**  
 
 ## 🔹 Tools and Languages  
 - ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
