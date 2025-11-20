@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yogesh Kurane!  
 
 **Welcome to my GitHub profile!**  
-I'm passionate about leveraging data analytics to empower businesses to make data-driven decisions and drive growth. With a strong foundation in tools like **Excel, Power BI and SQL**, I aim to combine **technical expertise with business acumen** to deliver impactful solutions. I believe in **constant growth** and continuous learning.  
+I'm passionate about understanding business problems, analyzing data, and helping teams make clearer and more informed decisions. With experience using Excel, Power BI, and SQL, I focus on turning information into practical insights and well-structured solutions. I value continuous learning and enjoy improving how processes and decisions are made.  
 
 ## 🔹 About Me  
 - 🎯 **Data analytics enthusiast with practical work experience on real-world project**  
